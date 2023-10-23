@@ -1,0 +1,17 @@
+E:\C#\Task2\Task2\obj\Debug\net7.0-windows\Task2.csproj.AssemblyReference.cache
+E:\C#\Task2\Task2\obj\Debug\net7.0-windows\Task2.Form1.resources
+E:\C#\Task2\Task2\obj\Debug\net7.0-windows\Task2.csproj.GenerateResource.cache
+E:\C#\Task2\Task2\obj\Debug\net7.0-windows\Task2.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Task2\Task2\obj\Debug\net7.0-windows\Task2.AssemblyInfoInputs.cache
+E:\C#\Task2\Task2\obj\Debug\net7.0-windows\Task2.AssemblyInfo.cs
+E:\C#\Task2\Task2\obj\Debug\net7.0-windows\Task2.csproj.CoreCompileInputs.cache
+E:\C#\Task2\Task2\bin\Debug\net7.0-windows\Task2.exe
+E:\C#\Task2\Task2\bin\Debug\net7.0-windows\Task2.deps.json
+E:\C#\Task2\Task2\bin\Debug\net7.0-windows\Task2.runtimeconfig.json
+E:\C#\Task2\Task2\bin\Debug\net7.0-windows\Task2.dll
+E:\C#\Task2\Task2\bin\Debug\net7.0-windows\Task2.pdb
+E:\C#\Task2\Task2\obj\Debug\net7.0-windows\Task2.dll
+E:\C#\Task2\Task2\obj\Debug\net7.0-windows\refint\Task2.dll
+E:\C#\Task2\Task2\obj\Debug\net7.0-windows\Task2.pdb
+E:\C#\Task2\Task2\obj\Debug\net7.0-windows\Task2.genruntimeconfig.cache
+E:\C#\Task2\Task2\obj\Debug\net7.0-windows\ref\Task2.dll
